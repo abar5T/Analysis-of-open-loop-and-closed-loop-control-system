@@ -1,4 +1,3 @@
-
  # Analysis-of-open-loop-and-closed-loop-control-system
 ## Aim :
   To analyse the open loop and closed loop system having G(S)=1/(S^2+10S+20)  when an unit step input is applied using MATLAB.
@@ -70,3 +69,8 @@ Settling Time = 2.2S
 
 Steady State Error = 0.0625  <br>
 Settling Time = 1.3S
+
+
+
+
+
